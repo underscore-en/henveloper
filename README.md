@@ -18,11 +18,11 @@ Develop and maintain backend systems with cloud services.
 
 ### 2021
 
-* hko [npm](https://www.npmjs.com/package/hko) library 
+* [hko npm library](https://github.com/henveloper/hko)
 
   * wraps the Hong Kong Observatory's open data API
 
-  * an attempt of publishing a npm library in typescript
+  * an attempt of publishing a [npm library](https://www.npmjs.com/package/hko) in typescript
 
 * HKUST 21-22 fall enrolment reports
 
