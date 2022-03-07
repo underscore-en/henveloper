@@ -6,7 +6,7 @@ Penultimate year Computer Science undergrad.
 
 Develop and maintain backend systems with cloud services.
 
-## Projects
+## Hobby Projects
 
 ### 2022
 
