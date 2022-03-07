@@ -40,7 +40,7 @@ I do cloud, backend developments.
 
   * a template of a framework that incoperates discord.js, mongodb, Koa with unit testing
  
-* [Realm of the mad god trading utilities]
+* Realm of the mad god trading utilities
 
   * Motivation: Placing and maintaining trade offers in the indie game Realm of the mad god is tedious.
 
