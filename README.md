@@ -46,10 +46,10 @@ I do cloud, backend developments.
 
   * [dataFetcher](https://github.com/henveloper/reTradeDataFetcher)
 
-   * mines the data from game assets and transforms to usable formats for frontend
+    * mines the data from game assets and transforms to usable formats for frontend
 
   * [frontend](https://github.com/henveloper/reTradeFrontend)
 
-   * a UI that allows me to specify the number of different items in inventory and different paramaters and generates a json that can be used in [realmEye](https://www.realmeye.com)'s unofficial API as paramater.
+    * a UI that allows me to specify the number of different items in inventory and different paramaters and generates a json that can be used in [realmEye](https://www.realmeye.com)'s unofficial API as paramater.
 
-   * uses material UI
+    * uses material UI
