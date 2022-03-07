@@ -4,7 +4,7 @@ Penultimate year Computer Science undergrad.
 
 ## Interests
 
-I do cloud, backend developments.
+Develop and maintain backend systems with cloud services.
 
 ## Projects
 
