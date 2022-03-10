@@ -20,6 +20,8 @@ Develop and maintain backend systems with cloud services.
 
   * An attempt to demonstrate logic decoupling of discord events and game controller to achieve unit testing without triggering discord events manually
   
+  * An attempt to investigate reliabile game state management with third party libraries given the unrealiability of cloud instance
+  
   * A template for highly modular web server framework with discord.js
   
 ### 2021
