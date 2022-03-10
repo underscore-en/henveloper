@@ -15,7 +15,13 @@ Develop and maintain backend systems with cloud services.
   * Discord server that reports HKUST course quota changes during add-drop period.
 
   * NodeJS application written in typescript deployed to Google Cloud via github actions. Uses MongoDB, inversify.js, discord.js.
+ 
+* Monopoly game in discord (to be published)
 
+  * An attempt to demonstrate logic decoupling of discord events and game controller to achieve unit testing without triggering discord events manually
+  
+  * A template for highly modular web server framework with discord.js
+  
 ### 2021
 
 * [hko npm library](https://github.com/henveloper/hko)
