@@ -22,7 +22,7 @@ Develop and maintain backend systems with cloud services.
   
   * An attempt to investigate reliabile game state management with third party libraries given the unrealiability of cloud instance
   
-  * A template for highly modular web server framework with discord.js
+  * A template for highly modular discord framework built on top of discord.js
   
 ### 2021
 
