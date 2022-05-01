@@ -3,6 +3,7 @@
 Penultimate year Computer Science undergrad.
 
 <img src="https://github-profile-trophy.vercel.app/?username=henveloper" alt="MarineGEO circle logo"/>
+
 ## Interests
 
 Develop and maintain backend systems with cloud services.
