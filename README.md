@@ -18,13 +18,9 @@ Develop and maintain backend systems with cloud services.
 
   * NodeJS application written in typescript deployed to Google Cloud via github actions. Uses MongoDB, inversify.js, discord.js.
  
-* Monopoly game in discord (to be published)
+* Reddit Disord Hook
 
-  * An attempt to demonstrate logic decoupling of discord events and game controller to achieve unit testing without triggering discord events manually
-  
-  * An attempt to investigate reliabile game state management with third party libraries given the unrealiability of cloud instance
-  
-  * A template for highly modular discord framework built on top of discord.js
+  * Simple script created in an hour to add a button to each subreddit post in reddit, that sends the post image if any to a discord hook.
   
 ### 2021
 
