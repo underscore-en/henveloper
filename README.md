@@ -20,7 +20,7 @@ Develop and maintain backend systems with cloud services.
  
 * [Reddit Disord Hook](https://github.com/henveloper/reddit-discord-hook)
 
-  * Simple script created in an hour to add a button to each subreddit post in reddit, that sends the post image if any to a discord hook.
+  * Simple script created in an hour to add a button to each subreddit post in reddit, that sends the post image if any to a discord hook when pressed
   
 ### 2021
 
