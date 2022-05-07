@@ -18,7 +18,7 @@ Develop and maintain backend systems with cloud services.
 
   * NodeJS application written in typescript deployed to Google Cloud via github actions. Uses MongoDB, inversify.js, discord.js.
  
-* Reddit Disord Hook
+* [Reddit Disord Hook](https://github.com/henveloper/reddit-discord-hook)
 
   * Simple script created in an hour to add a button to each subreddit post in reddit, that sends the post image if any to a discord hook.
   
