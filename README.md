@@ -8,9 +8,13 @@ Penultimate year Computer Science undergrad.
 
 Develop and maintain backend systems with cloud services.
 
-## Hobby Projects
+## Hobby Projects / Public Repos
 
 ### 2022
+
+* [java-playground](https://github.com/henveloper/java-playground)
+
+  * A place to re-learn java using grind75 algorithm problems as a medium.
 
 * UstQuotaTracker [(discord)](https://discord.gg/rsat42zQjy)
 
