@@ -12,6 +12,10 @@ Develop and maintain backend systems with cloud services.
 
 ### 2022
 
+* azure playgrounds [blob-storage](https://github.com/henveloper/az-204-storage-blob) [service-bus](https://github.com/henveloper/az-204-message-queue)
+
+ * Playground to learn azure nodejs sdks for az-204 exam
+
 * [java-playground](https://github.com/henveloper/java-playground)
 
   * A place to re-learn java using grind75 algorithm problems as a medium.
