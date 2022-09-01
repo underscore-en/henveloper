@@ -1,6 +1,6 @@
 # Hi I'm _en!
 
-Penultimate year Computer Science undergrad.
+Final year Computer Science undergrad.
 
 <img src="https://github-profile-trophy.vercel.app/?username=henveloper" alt="MarineGEO circle logo"/>
 
