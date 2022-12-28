@@ -12,10 +12,6 @@ Develop and maintain backend systems with cloud services.
 
 ### 2022
 
-* azure playgrounds [blob-storage](https://github.com/henveloper/az-204-storage-blob) [service-bus](https://github.com/henveloper/az-204-message-queue)
-
-  * Playground to learn azure nodejs sdks for az-204 exam
-
 * [java-playground](https://github.com/henveloper/java-playground)
 
   * A place to re-learn java using grind75 algorithm problems as a medium.
@@ -25,6 +21,8 @@ Develop and maintain backend systems with cloud services.
   * Discord server that reports HKUST course quota changes during add-drop period.
 
   * NodeJS application written in typescript deployed to Google Cloud via github actions. Uses MongoDB, inversify.js, discord.js.
+
+  * [Source code](https://github.com/henveloper/discord-ustquotatracker) has been released for anyone to maintain it.
  
 * [Reddit Discord Hook](https://github.com/henveloper/reddit-discord-hook)
 
