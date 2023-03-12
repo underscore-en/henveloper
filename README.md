@@ -10,6 +10,14 @@ Develop and maintain backend systems with cloud services.
 
 ## Hobby Projects / Public Repos
 
+### 2023
+
+* [stable-diffusion-tactical-reload](https://github.com/henveloper/stable-diffusion-tactical-reload)
+
+  * sd image generation using hugging face's diffuser apis to get around some of the limitations of GUIs out there.
+
+  * supports changing inference arg at runtime
+
 ### 2022
 
 * [java-playground](https://github.com/henveloper/java-playground)
