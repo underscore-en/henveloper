@@ -12,7 +12,7 @@ Develop and maintain backend systems with cloud services.
 
 ### 2023
 
-* [stable-diffusion-tactical-reload](https://github.com/henveloper/stable-diffusion-tactical-reload)
+* [stable-diffusion-gallery-generator](https://github.com/henveloper/stable-diffusion-gallery-generator)
 
   * sd image generation using hugging face's diffuser apis to get around some of the limitations of GUIs out there.
 
