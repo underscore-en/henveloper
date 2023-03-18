@@ -20,9 +20,7 @@ Develop and maintain backend systems with cloud services.
 
 * [osu-hero-generator](https://github.com/henveloper/osu-hero-generator)
 
-  * turning .osu beatmaps into something else
-
-  * 市民请注意! <img src="[https://your-image-url.type](https://emoji.redditmedia.com/kt9cbx7rect71_t5_2usxq/socialcredit1)" width="10" height="10">
+  * turning .osu beatmaps into something else <img src="https://emoji.redditmedia.com/kt9cbx7rect71_t5_2usxq/socialcredit1" width="15" height="15">
 
 ### 2022
 
