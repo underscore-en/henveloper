@@ -8,7 +8,7 @@ Final year Computer Science undergrad.
 
 Develop and maintain backend systems with cloud services.
 
-## Hobby Projects / Public Repos
+## This place is about stuff ඞ
 
 ### 2023
 
@@ -17,6 +17,12 @@ Develop and maintain backend systems with cloud services.
   * sd image generation using hugging face's diffuser apis to get around some of the limitations of GUIs out there.
 
   * supports changing inference arg at runtime
+
+* [osu-hero-generator](https://github.com/henveloper/osu-hero-generator)
+
+  * turning .osu beatmaps into something else
+
+  * 市民请注意! <img src="[https://your-image-url.type](https://emoji.redditmedia.com/kt9cbx7rect71_t5_2usxq/socialcredit1)" width="10" height="10">
 
 ### 2022
 
